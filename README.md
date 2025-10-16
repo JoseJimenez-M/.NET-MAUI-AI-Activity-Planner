@@ -40,7 +40,7 @@ This application requires access to weather and location data.
 2.  Create a new file in your project: Resources/Raw/apikey.txt.
 3.  Paste your keys into the file, each on a separate line, in the following order:
 
-    YOUR_APIKEY_OPENWEATHER
+    YOUR_APIKEY_OPENWEATHER<br>
     YOUR_APIKEY_GEOAPIFY
 
     *Security Note: The apikey.txt file is already included in .gitignore to prevent your credentials from being accidentally uploaded to the repository.*
