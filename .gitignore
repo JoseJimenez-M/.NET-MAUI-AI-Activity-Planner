@@ -1,0 +1,63 @@
+##############################################
+# Visual Studio / .NET Core / .NET MAUI
+##############################################
+
+## Build Folders and Output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+# F# build artifacts
+*.fsi
+
+## Visual Studio / IDE Files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.docstates
+
+# VS Code files
+.vscode/
+
+## Package and Dependencies
+[Pp]ackages/
+# Lock files for dependencies
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+## .NET MAUI Specific
+**/*/bin/
+**/*/obj/
+**/*/TestResults/
+**/*/GeneratedArtifacts/
+
+# Android specific files
+*.apk
+*.aab
+
+
+# API Keys
+Resources/Raw/apikey.txt
+
+## Test Results and Coverage
+[Tt]est[Rr]esults/
+*.trx
+*.coverage
+*.coveragexml
+BenchmarkDotNet.Artifacts/
+
+## Miscellaneous Files
+# Log files
+*.log
+# Windows temporary files
+~$*
+*.tmp
+# Rider IDE files
+.idea/
+# NUnit
+nunit-*.xml
+
+# Exclude the solution file
+# *.sln
