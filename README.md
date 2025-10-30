@@ -63,3 +63,16 @@ This application requires access to weather and location data.
     * Distance Range (km)
     * Activity Type (Restaurant, Walk, Picnic, etc.)
 4.  **Suggestion:** The system generates a keyword and queries the Foursquare Places API using location, distance, and filters.
+
+### D E M O
+
+1. Youtube: [https://youtube.com/shorts/umLKzHaqr_w?feature=share](https://youtube.com/shorts/umLKzHaqr_w?feature=share)
+2. Screenshots:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d90261c3-43a0-4bab-a1c8-457b126b78a5" width="30%" alt="Screenshot 1"/>
+  <img src="https://github.com/user-attachments/assets/dc229557-731c-4d92-b7fd-6a63073cf015" width="30%" alt="Screenshot 2"/>
+  <img src="https://github.com/user-attachments/assets/d89bc8e1-eafa-48f5-a94b-cf528752c84a" width="30%" alt="Screenshot 3"/>
+</p>
+
+
